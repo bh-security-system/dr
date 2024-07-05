@@ -4,8 +4,8 @@
       "url": "https://win.numberclube.xyz",
       "post_url": "//api_post.php",
       "get_url": "/api_get.php",
-      "Version": "5.0",
-      "timeData": "30"
+      "version": "5.0",
+      "timeData": 30,
     }
   ]
 }
