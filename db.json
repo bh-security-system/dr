@@ -1,11 +1,8 @@
 {
   "address": [
     {
-      "url": "https://win.numberclube.xyz",
-      "post_url": "//api_post.php",
-      "get_url": "/api_get.php",
-      "version": "5.0",
-      "timeData": 30
+      "url": "https://win.numberclube.xyz//api_post.php",
+      "get_url": "https://win.numberclube.xyz/api_get.php"
     }
   ]
 }
