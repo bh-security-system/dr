@@ -5,7 +5,7 @@
       "post": "api_post.",
       "get" : "api_get.",
       "version" : "5.0",
-      "timeData": "30",
+      "timeData": "30"
     }
   ]
 }
