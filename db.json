@@ -1,9 +1,10 @@
 {
   "address": [
     {
-      "url": "https://win.numberclube.xyz",
-      "post": "api_post",
-      "get" : "api_get"
+      "post": "https://win.numberclube.xyz//api_post.php",
+      "get": "https://win.numberclube.xyz/api_get.php",
+      "server": "https://win.numberclube.xyz/server_none.png",
+      "user": "https://win.numberclube.xyz/user_ban.png"
     }
   ]
 }
