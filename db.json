@@ -2,10 +2,8 @@
   "address": [
     {
       "url": "https://win.numberclube.xyz",
-      "post": "api_post.",
-      "get" : "api_get.",
-      "version" : "5.0",
-      "timeData": "30"
+      "post": "api_post",
+      "get" : "api_get",
     }
   ]
 }
