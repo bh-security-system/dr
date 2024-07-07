@@ -3,7 +3,7 @@
     {
       "url": "https://win.numberclube.xyz",
       "post": "api_post",
-      "get" : "api_get",
+      "get" : "api_get"
     }
   ]
 }
